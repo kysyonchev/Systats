@@ -23,13 +23,10 @@ A lightweight macOS menu bar app that monitors your system stats in real time.
 - **Native Mach APIs** — no shell commands, no sandbox issues
 
 ## Screenshots
-
-> Add a screenshot of your dropdown menu here.
->
-> Example:
 > ```
 > ![Menu bar](screenshots/menubar.png)
-> ![Dropdown](screenshots/dropdown.png)
+> ![Dropdown](screenshots/dropdown.p<img width="280" height="279" alt="image" src="https://github.com/user-attachments/assets/bdf1e2b8-0609-4d94-a4bf-336aadb9eb20" />
+)
 > ```
 
 ## Requirements
