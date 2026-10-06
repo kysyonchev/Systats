@@ -45,3 +45,6 @@ A lightweight macOS menu bar app that monitors your system stats in real time.
 git clone https://github.com/YOUR_USERNAME/Systats.git
 cd Systats
 open Systats.xcodeproj
+```
+#Notice
+Settings button may not work
